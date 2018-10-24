@@ -7,5 +7,5 @@ and a pawn and returns a boolean value whether or not the bishop can take the pa
 
 # Solution:
 
-![pic1](assets/whiteboardPic1.jpg)
-![pic2](assets/whiteboardPic2.jpg)
+![pic1](assets/whiteboardPic1.JPG)
+![pic2](assets/whiteboardPic2.JPG)
