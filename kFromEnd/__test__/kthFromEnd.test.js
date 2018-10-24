@@ -7,6 +7,6 @@ describe('kFromEnd.test.js', () => { //eslint-disable-line
     });
   });
 });
-// eslint says all these jest keywords are undefined, can't figure it out, 
+// eslint says all these jest keywords are undefined, can't figure it out
 // happens in my whiteboard repo only
 // Need sleep will do testing ASAP, this fake test is for travis
